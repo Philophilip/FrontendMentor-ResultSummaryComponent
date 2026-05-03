@@ -1,0 +1,12 @@
+Structure
+-Body
+    -Result Container
+        -Heading Container
+        -Resulting Container
+        -Great Container
+    -Summary Container
+        -Heading Container
+        -Reaction Container 
+        -Memory Container
+        -Verbal Container
+        -Visual Container
