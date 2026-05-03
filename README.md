@@ -12,8 +12,7 @@ A clean and responsive Results Summary UI built using **HTML and CSS** as part o
 
 ## 🚀 Live Demo
 
-🔗 https://project-1-personal-portfolio.vercel.app/
-*(Replace with your actual deployed link if different)*
+🔗 https://frontend-mentor-result-summary-comp.vercel.app/
 
 ---
 
