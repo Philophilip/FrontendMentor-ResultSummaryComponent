@@ -1,40 +1,99 @@
-# Frontend Mentor - Results summary component
+# 📊 Results Summary Component
+
+A clean and responsive Results Summary UI built using **HTML and CSS** as part of a Frontend Mentor challenge.
+
+---
+
+# Preview
 
 ![Design preview for the Results summary component coding challenge](./preview.jpg)
 
-## Welcome! 👋
+---
 
-Thanks for checking out this front-end coding challenge.
+## 🚀 Live Demo
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+🔗 https://project-1-personal-portfolio.vercel.app/
+*(Replace with your actual deployed link if different)*
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+---
 
-## The challenge
+## 📌 Overview
 
-Your challenge is to build out this results summary component and get it looking as close to the design as possible.
+This project focuses on building a visually accurate summary card with:
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+* Gradient backgrounds
+* Circular score display
+* Structured summary items
+* Responsive layout
 
-We provide the data for the results in a local `data.json` file. So you can use that to add the results and total score dynamically if you choose.
+---
 
-Your users should be able to:
+## 🛠️ Built With
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-- **Bonus**: Use the local JSON data to dynamically populate the content
+* HTML5
+* CSS3 (Flexbox)
+* Custom CSS Variables
+* Google Fonts (Hanken Grotesk)
 
-### Want some support on the challenge? 
+---
 
-[Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+## 🎯 What I Learned
 
-## Where to find everything
+* How to structure components using **Flexbox**
+* Using **CSS variables** for consistent design
+* Creating **gradients and circular UI elements**
+* Managing spacing and alignment properly
+* Building responsive layouts with media queries
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+---
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+## ⚡ Features
 
-If you would like the Figma design file to gain experience using professional tools and build more accurate projects faster, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+* Responsive design (mobile-first approach)
+* Gradient-based UI styling
+* Centered circular score component
+* Interactive button with hover effect
+* Clean and reusable CSS structure
+
+---
+
+## 🧠 Challenges Faced
+
+One challenge was creating a **perfect circular gradient element** while keeping the content centered.
+I solved this by explicitly defining equal width and height, using `border-radius: 50%`, and applying Flexbox for alignment.
+
+Another challenge was managing layout spacing consistently.
+I improved this by using `gap` in flex containers instead of relying on margins.
+
+---
+
+## 🔧 What I’d Improve
+
+* Improve pixel-perfect accuracy compared to the original design
+* Add smoother hover animations and transitions
+* Refactor CSS for better scalability (BEM or utility classes)
+* Convert this into a React component for reusability
+
+---
+
+## 📚 Acknowledgment
+
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/)
+
+---
+
+## 👤 Author
+
+Philo Yesudas Philip
+🔗 https://project-1-personal-portfolio.vercel.app/
+
+---
+
+## 💡 Final Note
+
+This project helped strengthen my fundamentals in layout, styling, and UI consistency.
+More improvements and advanced projects coming next.
+(https://www.frontendmentor.io/pro).
 
 All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
 
